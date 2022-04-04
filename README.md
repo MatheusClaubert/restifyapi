@@ -33,7 +33,7 @@ Exemplo de resultado:
 ```json
 {
     "_id":"hjkhfui324",
-    "name":"João Rangel"
+    "name":"Matheus Claubert"
 }
 ```
 
@@ -45,7 +45,7 @@ Exemplo de resultado:
 ```json
 {
     "_id":"hjkhfui324",
-    "name":"João Rangel"
+    "name":"Matheus Claubert"
 }
 ```
 
